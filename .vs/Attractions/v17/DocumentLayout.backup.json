@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\views\\formattractionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\views\\formattractionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\views\\formattractioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\views\\formattractioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\models\\cattraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\models\\cattraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\models\\cattrationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\models\\cattrationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\views\\formattractioneditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\views\\formattractioneditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|c:\\ispan\\ado_dot_net\\attractions\\attractions\\views\\formattractioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB289516-AB8D-4C74-980A-EB4F521C7B1A}|Attractions\\Attractions.csproj|solutionrelative:attractions\\views\\formattractioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAttractionList.cs",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionList.cs",
+              "RelativeDocumentMoniker": "Attractions\\Views\\FormAttractionList.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionList.cs",
+              "RelativeToolTip": "Attractions\\Views\\FormAttractionList.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAIA0wAsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:00:37.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAttractionEditor.cs",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.cs",
+              "RelativeDocumentMoniker": "Attractions\\Views\\FormAttractionEditor.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.cs",
+              "RelativeToolTip": "Attractions\\Views\\FormAttractionEditor.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAjwMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:00:44.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CAttrationImage.cs",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Models\\CAttrationImage.cs",
+              "RelativeDocumentMoniker": "Attractions\\Models\\CAttrationImage.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Models\\CAttrationImage.cs",
+              "RelativeToolTip": "Attractions\\Models\\CAttrationImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:02:18.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAttractionEditor.Designer.cs",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.Designer.cs",
+              "RelativeDocumentMoniker": "Attractions\\Views\\FormAttractionEditor.Designer.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.Designer.cs",
+              "RelativeToolTip": "Attractions\\Views\\FormAttractionEditor.Designer.cs",
+              "ViewState": "AgIAALcBAAAAAAAAAIA2wMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:24:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAttractionEditor.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.cs",
+              "RelativeDocumentMoniker": "Attractions\\Views\\FormAttractionEditor.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Views\\FormAttractionEditor.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Attractions\\Views\\FormAttractionEditor.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:23:00.044Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CAttraction.cs",
+              "DocumentMoniker": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Models\\CAttraction.cs",
+              "RelativeDocumentMoniker": "Attractions\\Models\\CAttraction.cs",
+              "ToolTip": "C:\\iSpan\\ADO_DOT_NET\\Attractions\\Attractions\\Models\\CAttraction.cs",
+              "RelativeToolTip": "Attractions\\Models\\CAttraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:24:06.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
